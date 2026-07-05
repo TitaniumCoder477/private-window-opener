@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Open as Private Window",
+  "version": "1.0",
+  "description": "Right-click to open current page in private window",
+  "permissions": ["contextMenus", "tabs", "windows"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
