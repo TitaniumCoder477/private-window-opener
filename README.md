@@ -40,6 +40,6 @@ A simple Chrome browser extension that adds a context menu option to open the cu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
+## Author
 
-Feel free to submit issues or pull requests if you have suggestions for improvements!
+Created with ❤️ using Grok 
